@@ -1,0 +1,4 @@
+TODO:
+Man Pages
+Test if the script stops
+DEMONSTRATION LATER. DO IT THIS TIME!!!!!
