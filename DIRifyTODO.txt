@@ -1,0 +1,15 @@
+TODO:
+
+**Test if the script works**
+
+Man Pages
+Custom File Name
+GCC? (Maybe. Might not be needed)
+Get the project out there (AUR Much?)
+
+
+TO LEARN HOW TODO:
+VERSIONS FOR OTHER OPERATING SYSTEMS (Windows, Mac, BSDs, Solaris)
+GUI?
+GUI Versions for other operating systems?
+AUR
